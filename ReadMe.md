@@ -13,14 +13,14 @@
 
 <table border="0">
   <tr>
-    <td><img src="https://github-readme-stats.shion.dev/api?username=Qwaer80792&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"></td>
+    <td><img src="https://github-readme-stats.shion.dev/api?username=QwaYer&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"></td>
     <td><img src="https://shion.dev" height="150"></td>
-    <td><img src="https://streak-stats.demolab.com/?user=Qwaer80792&theme=dark&hide_border=false" height="150"></td>
+    <td><img src="https://streak-stats.demolab.com/?user=QwaYer&theme=dark&hide_border=false" height="150"></td>
   </tr>
 </table>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=Qwaer80792&icon=0&color=0">
+<img src="https://komarev.com/ghpvc/?username=QwaYer&icon=0&color=0">
 
 </div>
